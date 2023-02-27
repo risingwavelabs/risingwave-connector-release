@@ -6,6 +6,9 @@ This repo is created to release the binary of the RisingWave connector, since it
 
 ## Release notes
 
+### v0.1.17
+Postgres CDC connector with bugfix
+
 ### v0.1.16
 MySQL and Postgres CDC connector with bugfix
 
